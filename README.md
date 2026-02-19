@@ -101,6 +101,12 @@ The Power BI dashboard includes:
 - Revenue Retained vs Churned
 - High-Risk Segment Contribution
 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="images/dashboard_overview.png" width="800">
+</p>
+
 ---
 
 ## 🚀 Project Outcome
