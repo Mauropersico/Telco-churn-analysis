@@ -1,15 +1,15 @@
 # Reducing Revenue Loss: A Business-Driven Churn Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 A telecommunications company is experiencing a churn rate of 26.5%, resulting in a 30.5% monthly revenue loss.  
 The objective of this analysis is to identify the primary drivers of customer churn and determine high-impact segments where retention efforts can significantly reduce revenue loss.
 
-This project is developed from a Data Analyst perspective, focusing on business insights, segmentation, and financial impact rather than predictive modeling.
+This project is developed from a Data Analyst perspective, focusing on business insights, segmentation, and financial impact.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Customer churn represents a significant threat to recurring revenue in subscription-based businesses.  
 
@@ -22,21 +22,19 @@ The key questions addressed in this analysis are:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - Source: IBM Telco Customer Churn Dataset  
-- Total records: 3,974 customers  
+- Total records: 7043 customers  
 - Key variables:
   - Contract type
   - Tenure
   - Monthly charges
-  - Customer demographics
-  - Service usage
   - Churn status
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Python (Pandas)** → Data cleaning and preparation  
 - **SQL (via SQLite / SQL queries)** → Exploratory data analysis  
@@ -44,7 +42,7 @@ The key questions addressed in this analysis are:
 
 ---
 
-## 🔎 Methodology
+## Methodology
 
 1. Data cleaning and validation in Python  
 2. SQL-based exploratory analysis to compute KPIs and segment metrics  
@@ -55,7 +53,7 @@ The key questions addressed in this analysis are:
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 - Overall churn rate: **26.54%**
 - Revenue churn rate: **30.5%**
@@ -66,7 +64,7 @@ The key questions addressed in this analysis are:
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
 Churn is highly concentrated among:
 
@@ -79,7 +77,7 @@ This suggests that low-commitment customers represent the highest financial risk
 
 ---
 
-## 📌 Strategic Recommendation
+## Strategic Recommendation
 
 Retention strategies should prioritize early-stage, month-to-month customers through:
 
@@ -91,7 +89,7 @@ Targeting this segment could significantly reduce monthly revenue loss.
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 The Power BI dashboard includes:
 
@@ -101,7 +99,7 @@ The Power BI dashboard includes:
 - Revenue Retained vs Churned
 - High-Risk Segment Contribution
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 <p align="center">
   <img src="images/dashboard_overview.png" width="800">
@@ -109,7 +107,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 🚀 Project Outcome
+## Project Outcome
 
 This project demonstrates:
 
